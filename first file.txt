@@ -1,0 +1,5 @@
+GitHub is designed as a Git repository hosting service. 
+ It’s an online database.
+ allows you to keep track of and share your Git version control projects outside of your local computer/server. 
+Unlike Git, GitHub is exclusively cloud-based. 
+Also unlike Git, GitHub is a for-profit service
